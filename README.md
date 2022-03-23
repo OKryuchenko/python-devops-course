@@ -4,3 +4,4 @@
 
 # python-devops
 A repo for a course on Python DevOps
+https://www.youtube.com/watch?v=dbCBe7hlLbk
